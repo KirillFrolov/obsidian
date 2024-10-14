@@ -24,9 +24,9 @@ WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 #  Прочие задачи
 
 ```dataview
-TABLE startdate  as "Начало", deadline as "Срок"
+TABLE startdate  as "Дата", deadline as "Срок"
 FROM "Tasks"
-WHERE done = false
+WHERE done = false and startdate != date(today)
 
 ```
 
