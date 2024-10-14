@@ -4,6 +4,7 @@
 
 ```dataview
 TABLE done  as "Выполнено", deadline as "Срок"
+FROM Tasks
 
 WHERE startdate = date.now
 
@@ -17,7 +18,7 @@ WHERE startdate = date.now
 ```dataview
 TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
 
-WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date.now
+WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(dateformat(date.now(), "yyyy-MM-dd"))
     
 ```
 
