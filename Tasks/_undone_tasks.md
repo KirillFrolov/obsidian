@@ -5,6 +5,6 @@
 TABLE startdate  as "Начало", deadline as "Срок"
 
 WHERE done = false
-    
+
 ```
 
