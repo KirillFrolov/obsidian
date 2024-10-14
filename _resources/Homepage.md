@@ -7,8 +7,6 @@ TABLE done  as "Выполнено", deadline as "Срок"
 FROM "Tasks"
 
 WHERE startdate = date(today)
-
-    
 ```
 
 # Встречи на сегодня
@@ -18,7 +16,6 @@ WHERE startdate = date(today)
 TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
 
 WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
-    
 ```
 
 #  Прочие задачи
@@ -27,7 +24,6 @@ WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 TABLE startdate  as "Дата", deadline as "Срок"
 FROM "Tasks"
 WHERE done = false and startdate != date(today)
-
 ```
 
 
