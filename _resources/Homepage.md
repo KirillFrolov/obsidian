@@ -44,3 +44,10 @@ SORT startdate
    ```
   </div>
 
+
+
+
+|                                                                                                          |                                                                                                                                                  |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ```dataview TABLE done as "Выполнено", deadline as "Срок" FROM "Tasks" WHERE startdate = date(today) ``` | ```dataview TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка" WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today) ``` |
+|                                                                                                          |                                                                                                                                                  |
