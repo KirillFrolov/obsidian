@@ -30,18 +30,14 @@ SORT startdate
 
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
+<div class="inline-tables">
 ```dataview
 TABLE done  as "Выполнено", deadline as "Срок"
 FROM "Tasks"
 WHERE startdate = date(today)
 ```
-   </div>
-   <div style="width: 48%;">
 ```dataview
 TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
 WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 ```
-    </div>
 </div>
