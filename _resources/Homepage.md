@@ -11,7 +11,6 @@ WHERE startdate = date(today)
 
 # Встречи на сегодня
 
-
 ```dataview
 TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
 
@@ -26,5 +25,14 @@ FROM "Tasks"
 WHERE done = false and startdate != date(today)
 SORT startdate
 ```
+
+Прочие встречи
+
+```dataview
+TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
+
+WHERE date(dateformat(starttime, "yyyy-MM-dd")) > date(today)
+```
+
 
 

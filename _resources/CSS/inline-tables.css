@@ -1,8 +1,0 @@
-.inline-tables {
-    display: flex;
-    justify-content: space-between;
-}
-
-.inline-tables .dataview table {
-    width: 48%;
-}
