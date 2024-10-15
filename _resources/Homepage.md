@@ -24,6 +24,7 @@ WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 TABLE startdate  as "Дата", deadline as "Срок"
 FROM "Tasks"
 WHERE done = false and startdate != date(today)
+SORT startdate
 ```
 
 
