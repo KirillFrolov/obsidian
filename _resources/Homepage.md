@@ -30,7 +30,7 @@ SORT startdate
 
 
 
-<div class="dataview-inline-tables>
+<div class="dataview-inline-tables">
 
   ```dataview
   TABLE done  as "Выполнено", deadline as "Срок"
