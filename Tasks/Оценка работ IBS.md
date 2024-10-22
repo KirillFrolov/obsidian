@@ -4,7 +4,7 @@ tags:
   - ibs
 startdate: 2024-10-22
 deadlinedate: 
-done: false
+done: true
 state:
 ---
 <span style="font-size:12px; color:#888888;">Created: 22.10.2024 09:56</span>
@@ -16,5 +16,8 @@ state:
 Отправить через [[Максим Классен]]
 
 ## Результаты:
+
+Оценка направлена [[Максим Классен]] через telegram
+
 
 
