@@ -1,7 +1,7 @@
 <span style="font-size:12px; color:#888888;">Created: 23.10.2024 14:38</span>
 [[English]] [[IELTS]] [[Part 3]]
 
-Parents should approach their children’s ambitions with care, providing guidance and support without overly interfering or controlling their choices. While parents play a crucial role in shaping values, offering advice, and helping children make informed decisions, excessive interference can stifle [en:: leibnm ] a child’s sense of autonomy, confidence, and creativity. Balancing involvement and respect for their individuality is key.
+Parents should approach their children’s ambitions with care, providing guidance and support without overly interfering or controlling their choices. While parents play a crucial role in shaping values, offering advice, and helping children make informed decisions, excessive interference can stifle  a child’s sense of autonomy, confidence, and creativity. Balancing involvement and respect for their individuality is key.
 
 Here are some key considerations for how parents can effectively support their children’s ambitions without overstepping:
   
