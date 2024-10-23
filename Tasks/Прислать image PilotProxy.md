@@ -1,6 +1,6 @@
 ---
 tags:
-  - BuildDocs
+  - builddocs
 done: true
 state: Doing
 startdate: 2024-10-14
