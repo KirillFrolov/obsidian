@@ -1,6 +1,8 @@
+---
+tags:
+  - ielts/part3
+---
 <span style="font-size:12px; color:#888888;">Created: 23.10.2024 14:34</span>
-
-[[English]] [[IELTS]] [[Part 3]]
 
 If children resist studying, parents can take several steps to address the issue without creating conflict or turning it into a power struggle. The goal is to understand the root cause of their resistance, help them develop healthy study habits, and make learning more appealing. Here’s what parents can do:
 

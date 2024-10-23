@@ -1,5 +1,10 @@
+---
+tags:
+  - ielts/letter
+---
+
 <span style="font-size:12px; color:#888888;">Created: 14.10.2024 13:55</span>
-[[English]] [[IELTS]] [[Letter]]
+[[Letter]]
 
 You are a member of an International Students' club. The club is organising an event to celebrate popular food from around the world.
 

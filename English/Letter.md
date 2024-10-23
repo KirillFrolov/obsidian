@@ -1,5 +1,9 @@
+---
+tags:
+  - "#ielts/letter"
+---
+
 <span style="font-size:12px; color:#888888;">Created: 14.10.2024 13:55</span>
-[[English]] [[IELTS]]
 
 **1. Formal Letter (To someone you don’t know well, like a company manager or authority)**
 

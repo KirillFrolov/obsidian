@@ -1,5 +1,9 @@
+---
+tags:
+  - ielts/part3
+---
+
 <span style="font-size:12px; color:#888888;">Created: 23.10.2024 14:41</span>
-[[English]] [[IELTS]] [[Part 3]]
 
 Setting goals for children should be a **collaborative effort** between the child, parents, and, at times, teachers or mentors. While adults play an important role in guiding and supporting goal-setting, children should have a strong voice in the process to ensure the goals are meaningful to them and aligned with their interests and abilities.
 

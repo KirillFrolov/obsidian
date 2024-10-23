@@ -1,5 +1,9 @@
+---
+tags:
+  - ielts/part3
+---
+
 <span style="font-size:12px; color:#888888;">Created: 23.10.2024 14:37</span>
-[[English]] [[IELTS]] [[Part 3]]
 
 Yes, parents can and should help set goals for their children, but it’s important to do so in a way that encourages growth, autonomy, and self-motivation. Setting goals can be highly beneficial as it gives children direction and a sense of purpose, but the process should be collaborative and age-appropriate to ensure it empowers children rather than pressures them. Here are some key principles for setting effective goals for children:
 

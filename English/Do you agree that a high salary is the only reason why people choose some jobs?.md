@@ -1,5 +1,8 @@
+---
+tags:
+  - ielts/part3
+---
 <span style="font-size:12px; color:#888888;">Created: 23.10.2024 14:21</span>
-[[English]] [[IELTS]] [[Part 3]]
 
 I don’t agree that a high salary is the _only_ reason why people choose certain jobs. While salary can be a powerful incentive, especially for meeting financial needs or achieving certain lifestyle goals, many other factors influence job choice. People often consider aspects such as:
 
