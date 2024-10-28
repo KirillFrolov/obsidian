@@ -12,9 +12,9 @@ I don’t agree that a high salary is the _only_ reason why people choose certai
 
 • **Job Security**: Stability and long-term security in a job may sometimes matter more than a large paycheck.
 
-• **Career Growth**: Opportunities for professional development and advancement can attract people, even if the initial salary isn’t very high.
+• **Career Growth**: Opportunities for professional development and [[advancement]] can attract people, even if the initial salary isn’t very high.
 
-• **Company Culture**: A supportive and positive work environment or the chance to work with like-minded people can be a strong pull.
+• **Company Culture**: A supportive and positive work environment or the chance to work with [[like-minded]] people can be a strong pull.
 
 • **Meaningful Work**: People often seek jobs that offer a sense of purpose or contribute to a cause they care about.
 
