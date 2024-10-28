@@ -19,4 +19,4 @@ I don’t agree that a high salary is the _only_ reason why people choose certai
 • **Meaningful Work**: People often seek jobs that offer a sense of purpose or [[contribute]] to a cause they care about.
 
 
-Of course, there are cases where a high salary might be the primary motivator—especially in high-stress or high-risk jobs—but it’s usually one of several important considerations.
+Of course, there are cases where a high salary might be the primary motivator—especially in high-stress or high-risk jobs—but it’s usually one of several important [[considerations]].
