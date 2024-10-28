@@ -8,7 +8,7 @@ I don’t agree that a high salary is the _only_ reason why people choose certai
 
 • **Passion and Interest**: Some choose jobs that [[align]] with their interests, skills, or passions, even if the salary is lower.
 
-• **Work-Life Balance**: Jobs offering flexible hours, remote work, or better work-life balance can be more appealing than high-paying but demanding roles.
+• **Work-Life Balance**: Jobs offering flexible hours, remote work, or better work-life balance can be more [[appealing]] than high-paying but [[demanding]] roles.
 
 • **Job Security**: Stability and long-term security in a job may sometimes matter more than a large paycheck.
 
