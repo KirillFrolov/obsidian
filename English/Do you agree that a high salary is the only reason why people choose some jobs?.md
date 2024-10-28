@@ -6,7 +6,7 @@ tags:
 
 I don’t agree that a high salary is the _only_ reason why people choose certain jobs. While salary can be a powerful [[incentive]], especially for meeting financial needs or achieving [[certain]] lifestyle goals, many other factors influence job choice. People often [[consider]] aspects such as:
 
-• **Passion and Interest**: Some choose jobs that align with their interests, skills, or passions, even if the salary is lower.
+• **Passion and Interest**: Some choose jobs that [[align]] with their interests, skills, or passions, even if the salary is lower.
 
 • **Work-Life Balance**: Jobs offering flexible hours, remote work, or better work-life balance can be more appealing than high-paying but demanding roles.
 
