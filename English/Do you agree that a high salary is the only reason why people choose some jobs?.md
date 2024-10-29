@@ -10,7 +10,7 @@ I don’t agree that a high salary is the _only_ reason why people choose certai
 
 • **Work-Life Balance**: Jobs offering flexible hours, remote work, or better work-life balance can be more [[appealing]] than high-paying but [[demanding]] roles.
 
-• **Job Security**: Stability and long-term security in a job may sometimes matter more than a large paycheck.
+• **Job Security**: Stability and long-term security in a job may sometimes matter more than a large [[paycheck]].
 
 • **Career Growth**: Opportunities for professional development and [[advancement]] can attract people, even if the initial salary isn’t very high.
 
