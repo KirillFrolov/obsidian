@@ -16,6 +16,7 @@
 > WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 > ```
 
+---
 
 > [!info] Прочие задачи
 > ```dataview
