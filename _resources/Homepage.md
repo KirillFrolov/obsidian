@@ -19,7 +19,7 @@
 
 > [!info] Прочие задачи
 > ```dataview
-> TABLE startdate  as "Дата", deadline as "Срок"
+> TABLE  WITHOUT ID  link(file.name) as "Задача",  startdate  as "Дата", deadline as "Срок"
 > FROM "Tasks"
 > WHERE done = false and startdate != date(today)
 > SORT startdate
