@@ -2,7 +2,7 @@
 tags:
   - builddocs
 done: true
-state: Doing
+state: Done
 startdate: 2024-10-14
 ---
 <span style="font-size:12px; color:#888888;">Created: 13.10.2024 00:27</span>
