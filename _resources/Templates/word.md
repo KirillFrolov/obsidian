@@ -1,0 +1,4 @@
+---
+translate:
+---
+ `=this.translate`
