@@ -2,7 +2,7 @@
 
 > [!tip] Задачи на сегодня
 > ```dataview
-> TABLE done  as "Выполнено", deadline as "Срок"
+> TABLE  WITHOUT ID  link(file.name) as "Задача",  done  as "Выполнено", deadline as "Срок"
 > FROM "Tasks"
 > 
 > WHERE startdate = date(today)
@@ -11,7 +11,7 @@
 
 > [!tip] Встречи на сегодня
 > ```dataview
-> TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
+> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
 > 
 > WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
 > ```
@@ -28,7 +28,7 @@
 
 > [!info] Прочие встречи
 > ```dataview
-> TABLE done as "Выполнено", starttime as "Начало", link as "Ссылка"
+> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
 > 
 > WHERE date(dateformat(starttime, "yyyy-MM-dd")) > date(today)
 > ```
