@@ -3,7 +3,7 @@
 
 ```dataview
 TABLE  WITHOUT ID  link(file.name) as "Word",  translate as "translate", transcription as "transcription",  examles as "examples"
-FROM "Dictionary"
+WHERE contains(file.folder, this.file.folder) and file.name != this.file.name
  ```
  
  
