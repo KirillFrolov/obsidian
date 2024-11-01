@@ -11,7 +11,7 @@ state:
 
 ## Описание:
 
-
+https://sd.ascon.ru/otrs/index.pl?Action=AgentTicketZoom;TicketID=469951
 ## Результаты:
 
 
