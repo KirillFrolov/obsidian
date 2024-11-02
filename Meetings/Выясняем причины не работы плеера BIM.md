@@ -2,7 +2,7 @@
 tags:
   - ascon
   - tasq
-link: 
+link: https://my.mts-link.ru/j/74743597/667704335
 starttime: 2024-11-02T11:00:00
 done: false
 participants:
