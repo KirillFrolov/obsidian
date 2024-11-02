@@ -14,4 +14,6 @@ state:
 https://sd.ascon.ru/otrs/index.pl?Action=AgentTicketZoom;TicketID=469951
 ## Результаты:
 
+Создали дебаг версию отправили клиенту. Назначил встречу [[Выясняем причины не работы плеера BIM]]
+
 
