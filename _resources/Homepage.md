@@ -53,9 +53,7 @@ for (let page of dv.pages('"Tasks"').where(p => p.done)) {
 	//dv.span("<br>" + page.file.name) // uncomment for troubleshooting
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
-		intensity: page.exercise, // (required) the data you want to track, will map color intensities automatically
-		content: "🏋️",           // (optional) Add text to the date cell
-		color: "orange",          // (optional) Reference from *calendarData.colors*. If no color is supplied; colors[0] is used
+		intensity: 100, // (required) the data you want to track, will 
 	})
 }
 
