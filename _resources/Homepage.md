@@ -41,19 +41,15 @@
 dv.span("** Tasks Heatmap **") 
 const calendarData = {
 	
-	showCurrentDayBorder: true, // (optional) defaults to true
-	defaultEntryIntensity: 4,   // (optional) defaults to 4
-	intensityScaleStart: 10,    // (optional) defaults to lowest value passed to entries.intensity
-	intensityScaleEnd: 100,     // (optional) defaults to highest value passed to entries.intensity
-	entries: [],                // (required) populated in the DataviewJS loop below
+entries: [],                // (required) populated in the DataviewJS loop below
 }
 
 //DataviewJS loop
-for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
-	dv.span("<br>" + page.done) // uncomment for troubleshooting
+for (let page of dv.pages('"Tasks"').where(p => p.weight)) {
+	dv.span("<br>" + page.startdate) // uncomment for troubleshooting
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
-		intensity: "15", // (required) the data you want to track, will 
+		intensity: page.weight, // (required) the data you want to track, will 
 		content: await dv.span(`[](${page.file.name})`)
 	})
 }
