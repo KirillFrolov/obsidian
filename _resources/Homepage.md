@@ -46,8 +46,8 @@ entries: [],                // (required) populated in the DataviewJS loop below
 
 //DataviewJS loop
 for (let page of dv.pages('"Tasks"').where(p => p.weight)) {
- 
-	dv.span("<br>" + date(page.startdate)) // uncomment for troubleshooting
+    const date = new Date(page.startdate);
+	dv.span("<br>" + date) // uncomment for troubleshooting
 	
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
