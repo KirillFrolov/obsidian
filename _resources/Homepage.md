@@ -53,7 +53,7 @@ for (let page of dv.pages('"Tasks"').where(p => p.done)) {
 	dv.span("<br>" + page.done) // uncomment for troubleshooting
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
-		intensity: page., // (required) the data you want to track, will 
+		intensity: 50, // (required) the data you want to track, will 
 		content: await dv.span(`[](${page.file.name})`)
 	})
 }
