@@ -40,6 +40,10 @@
 ```dataviewjs
 dv.span("** Tasks Heatmap **") 
 const calendarData = {
+ colors: {   // optional, defaults to green
+      orange:      ["#ffa244","#fd7f00","#dd6f00","#bf6000","#9b4e00"],
+      pink:        ["#ff96cb","#ff70b8","#ff3a9d","#ee0077","#c30062"]
+    },
 	
 entries: [],                // (required) populated in the DataviewJS loop below
 }
@@ -55,20 +59,21 @@ for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
     if (mm < 10) mm = '0' + mm;
     const formattedDate = yyyy + "-" + mm + '-' + dd;
 	//dv.span("<br>" + formattedDate) // uncomment for troubleshooting
-  if (intensityData[formattedDate]) {
-        intensityData[formattedDate] += 1;
-    } else {
-        // Иначе создаем новую запись для даты с intensity 1
-        intensityData[formattedDate] = 1;
-    }
+	if (intensityData[formattedDate]){
+	intensityData[formattedDate] += 1;
+	} else {
+	intensityData[formattedDate] = 1
+	}
+	
+
 }
 
-for (const [date, intensity] of Object.entries(intensityData)) {
-    calendarData.entries.push({
-       date: date,
-        intensity: intensity,
-    });
-    }
+for ( const [date, intensity] of Object.entries(intensityData)) {
+	calendarData.entries.push({
+		date: date,     // (required) Format YYYY-MM-DD
+		intensity: intensity, // (required) the data you want to track, will 
+	})
+}
 
 renderHeatmapCalendar(this.container, calendarData)
 ``` 
@@ -81,6 +86,7 @@ const calendarData = {
 entries: [],                // (required) populated in the DataviewJS loop below
 }
 
+const intensityData = {};
 //DataviewJS loop
 for (let page of dv.pages('"Meetings"').where(p => p.starttime)) {
     const date = new Date(page.starttime);
@@ -91,10 +97,19 @@ for (let page of dv.pages('"Meetings"').where(p => p.starttime)) {
     if (mm < 10) mm = '0' + mm;
     const formattedDate = yyyy + "-" + mm + '-' + dd;
 	//dv.span("<br>" + formattedDate) // uncomment for troubleshooting
+	if (intensityData[formattedDate]){
+	intensityData[formattedDate] += 1;
+	} else {
+	intensityData[formattedDate] = 1
+	}
 	
+
+}
+
+for ( const [date, intensity] of Object.entries(intensityData)) {
 	calendarData.entries.push({
-		date: formattedDate,     // (required) Format YYYY-MM-DD
-		intensity: 1, // (required) the data you want to track, will 
+		date: date,     // (required) Format YYYY-MM-DD
+		intensity: intensity, // (required) the data you want to track, will 
 	})
 }
 
