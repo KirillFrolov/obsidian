@@ -10,6 +10,10 @@ Write a letter to the owner of your apartment. In your letter
 
 Dear Mr. Anderson,
 
+I hope this message finds you well. I am writing to discuss my rental [[arrangement]] at 78 Brown street , which I began leasing approximately five month ago on six mont agreement. I have greatly enjoyed living here, and the apartment has proven to be an ideal home for me.
+
+
+
 Our rent agreement lasts in one week and I would like to extend it for a long time. 
 
 I 
