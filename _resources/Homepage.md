@@ -121,14 +121,14 @@ entries: [],                // (required) populated in the DataviewJS loop below
 const intensityData = {};
 //DataviewJS loop
 for (let page of dv.pages('"English/Dictionary"')) {
-    const date = new Date(page.file.created);
+    const date = new Date(page.file.ctime);
     const yyyy = date.getFullYear();
     let mm = date.getMonth() + 1; // Months start at 0!
     let dd = date.getDate();
     if (dd < 10) dd = '0' + dd;
     if (mm < 10) mm = '0' + mm;
     const formattedDate = yyyy + "-" + mm + '-' + dd;
-	dv.span("<br>" + page.file) // uncomment for troubleshooting
+	//dv.span("<br>" + formattedDate) // uncomment for troubleshooting
 	if (intensityData[formattedDate]){
 	intensityData[formattedDate] += 1;
 	} else {
