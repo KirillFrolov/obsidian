@@ -44,6 +44,7 @@ const calendarData = {
 entries: [],                // (required) populated in the DataviewJS loop below
 }
 
+const intensityData = {};
 //DataviewJS loop
 for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
     const date = new Date(page.startdate);
@@ -54,12 +55,20 @@ for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
     if (mm < 10) mm = '0' + mm;
     const formattedDate = yyyy + "-" + mm + '-' + dd;
 	//dv.span("<br>" + formattedDate) // uncomment for troubleshooting
-	
-	calendarData.entries.push({
-		date: formattedDate,     // (required) Format YYYY-MM-DD
-		intensity: 1, // (required) the data you want to track, will 
-	})
+  if (intensityData[formattedDate]) {
+        intensityData[formattedDate] += 1;
+    } else {
+        // Иначе создаем новую запись для даты с intensity 1
+        intensityData[formattedDate] = 1;
+    }
 }
+
+for (const [date, intensity] of Object.entries(intensityData)) {
+    calendarData.entries.push({
+       date: date,
+        intensity: intensity,
+    });
+    }
 
 renderHeatmapCalendar(this.container, calendarData)
 ``` 
