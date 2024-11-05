@@ -38,7 +38,7 @@
 [[English words]]
 
 ```dataviewjs
-dv.span("** Tasks Heatmap **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
+dv.span("** Tasks Heatmap **") 
 const calendarData = {
 	
 	showCurrentDayBorder: true, // (optional) defaults to true
@@ -49,11 +49,11 @@ const calendarData = {
 }
 
 //DataviewJS loop
-for (let page of dv.pages('"Tasks"').where(p => p.done)) {
+for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
 	dv.span("<br>" + page.done) // uncomment for troubleshooting
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
-		intensity: 50, // (required) the data you want to track, will 
+		intensity: "15", // (required) the data you want to track, will 
 		content: await dv.span(`[](${page.file.name})`)
 	})
 }
