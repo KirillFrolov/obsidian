@@ -8,37 +8,7 @@
 > WHERE startdate = date(today)
 > ```
 
-
-> [!tip] Встречи на сегодня
-> ```dataview
-> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
-> 
-> WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
-> ```
-
----
-
-> [!info] Прочие задачи
-> ```dataview
-> TABLE  WITHOUT ID  link(file.name) as "Задача",  startdate  as "Дата", deadlinedate as "Срок"
-> FROM "Tasks"
-> WHERE done = false and startdate != date(today)
-> SORT startdate
-> ```
-
-
-> [!info] Прочие встречи
-> ```dataview
-> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
-> 
-> WHERE date(dateformat(starttime, "yyyy-MM-dd")) > date(today)
-> ```
-
-
-[[English words]]
-
 ```dataviewjs
-dv.span("** Tasks Heatmap **") 
 const calendarData = {
  colors: {   // optional, defaults to green
       orange:      ["#ffa244","#fd7f00","#dd6f00","#bf6000","#9b4e00"],
@@ -79,8 +49,14 @@ renderHeatmapCalendar(this.container, calendarData)
 ``` 
 
 
+> [!tip] Встречи на сегодня
+> ```dataview
+> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
+> 
+> WHERE date(dateformat(starttime, "yyyy-MM-dd")) = date(today)
+> ```
+
 ```dataviewjs
-dv.span("** Meetings Heatmap **") 
 const calendarData = {
 	
 entries: [],                // (required) populated in the DataviewJS loop below
@@ -115,3 +91,28 @@ for ( const [date, intensity] of Object.entries(intensityData)) {
 
 renderHeatmapCalendar(this.container, calendarData)
 ``` 
+---
+
+> [!info] Прочие задачи
+> ```dataview
+> TABLE  WITHOUT ID  link(file.name) as "Задача",  startdate  as "Дата", deadlinedate as "Срок"
+> FROM "Tasks"
+> WHERE done = false and startdate != date(today)
+> SORT startdate
+> ```
+
+
+> [!info] Прочие встречи
+> ```dataview
+> TABLE  WITHOUT ID  link(file.name) as "Встреча",  done as "Выполнено", starttime as "Начало", link as "Ссылка"
+> 
+> WHERE date(dateformat(starttime, "yyyy-MM-dd")) > date(today)
+> ```
+
+
+[[English words]]
+
+
+
+
+
