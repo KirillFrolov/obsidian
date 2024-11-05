@@ -53,7 +53,7 @@ for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
     if (dd < 10) dd = '0' + dd;
     if (mm < 10) mm = '0' + mm;
     const formattedDate = yyyy + "-" + mm + '-' + dd;
-	dv.span("<br>" + formattedDate) // uncomment for troubleshooting
+	//dv.span("<br>" + formattedDate) // uncomment for troubleshooting
 	
 	calendarData.entries.push({
 		date: formattedDate,     // (required) Format YYYY-MM-DD
