@@ -45,11 +45,11 @@ const calendarData = {
       pink:        ["#ff96cb","#ff70b8","#ff3a9d","#ee0077","#c30062"]
     },
 	
-entries: [],                // (required) populated in the DataviewJS loop below
+entries: [],            
 }
 
 const intensityData = {};
-//DataviewJS loop
+
 for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
     const date = new Date(page.startdate);
     const yyyy = date.getFullYear();
@@ -71,7 +71,7 @@ for (let page of dv.pages('"Tasks"').where(p => p.startdate)) {
 for ( const [date, intensity] of Object.entries(intensityData)) {
 	calendarData.entries.push({
 		date: date,     // (required) Format YYYY-MM-DD
-		intensity: intensity, // (required) the data you want to track, will 
+		intensity: intensity, // (required) the data you want to track
 	})
 }
 
