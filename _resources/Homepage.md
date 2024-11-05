@@ -112,6 +112,42 @@ renderHeatmapCalendar(this.container, calendarData)
 
 [[English words]]
 
+```dataviewjs
+const calendarData = {
+	
+entries: [],                // (required) populated in the DataviewJS loop below
+}
+
+const intensityData = {};
+//DataviewJS loop
+for (let page of dv.pages('"English/Dictionary"')) {
+    const date = new Date(page.file.created);
+    const yyyy = date.getFullYear();
+    let mm = date.getMonth() + 1; // Months start at 0!
+    let dd = date.getDate();
+    if (dd < 10) dd = '0' + dd;
+    if (mm < 10) mm = '0' + mm;
+    const formattedDate = yyyy + "-" + mm + '-' + dd;
+	dv.span("<br>" + page.file) // uncomment for troubleshooting
+	if (intensityData[formattedDate]){
+	intensityData[formattedDate] += 1;
+	} else {
+	intensityData[formattedDate] = 1
+	}
+	
+
+}
+
+for ( const [date, intensity] of Object.entries(intensityData)) {
+	calendarData.entries.push({
+		date: date,     // (required) Format YYYY-MM-DD
+		intensity: intensity, // (required) the data you want to track, will 
+	})
+}
+
+renderHeatmapCalendar(this.container, calendarData)
+``` 
+
 
 
 
