@@ -46,7 +46,9 @@ entries: [],                // (required) populated in the DataviewJS loop below
 
 //DataviewJS loop
 for (let page of dv.pages('"Tasks"').where(p => p.weight)) {
-	dv.span("<br>" + page.startdate) // uncomment for troubleshooting
+ 
+	dv.span("<br>" + date(page.startdate)) // uncomment for troubleshooting
+	
 	calendarData.entries.push({
 		date: page.startdate,     // (required) Format YYYY-MM-DD
 		intensity: page.weight, // (required) the data you want to track, will 
