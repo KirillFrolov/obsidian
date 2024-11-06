@@ -1,9 +1,9 @@
 ---
 tags:
   - ascon
-startdate: 
+startdate: 2024-11-06
 deadlinedate: 
-done: false
+done: true
 state:
 ---
 <span style="font-size:12px; color:#888888;">Created: 30.10.2024 17:27</span>
@@ -15,5 +15,8 @@ state:
 В рамках работ по разработке web версии модуля TASQ, есть необходимость в поиске. На данный момент в документации по разработке web плагинов не увидели упоминания интерфейса для поиска (для desktop плагинов ISearchService). Планируется ли добавление поддержи интерфейса поиска для web плагинов? Если да, то примерно в какие сроки?
 
 ## Результаты:
+
+SD#7476222 Поиск в веб клиенте Pilot https://sd.ascon.ru/otrs/index.pl?Action=AgentTicketZoom;TicketID=474207;
+Да, такой функционал запланирован - задача PI#3-2411.
 
 
