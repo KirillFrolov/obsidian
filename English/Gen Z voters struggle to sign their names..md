@@ -1,0 +1,21 @@
+<span style="font-size:12px; color:#888888;">Created: 06.11.2024 22:28</span>
+
+Many Gen Z voters struggle to  sign their names. That's becoming a problem as they cast their [[ballots]].
+Erin Snodgrass
+Gen Z voters who struggle with cursive could slow the vote count, Nevada's secretary of state said. He said more mail ballots have been rejected because of issues with young voters' signatures. Many schools stopped teaching cursive in 2010, leading to a generation unfamiliar with the style.
+As more schools stop teaching cursive handwriting, fewer young people have distinct 
+signatures — and that could affect Gen Z voters as they try to cast their votes. Nevada Secretary of State Francisco Aguilar said on Tuesday that a relatively high number of 
+mail-in ballots had been rejected in Clark and Washoe counties, two of the battleground 
+state's most populous counties, because of signature matching problems.
+"It's mostly the fact that young people don't have signatures these days," Aguilar told The New York Times. "And when they did register to vote through the automatic voter registration process, they signed a digital pad at the DMV, and that became their license signature."
+States in the US require a voter's signature on mail and absentee ballots, and several states require additional verifications, including comparing that signature to the voter's signature on file. About two-thirds of states have a "curing" process to notify voters that their ballots weren't counted and allow them to fix the mistake, which can take several days and prolong the vote-counting process, according to the National Conference of State Legislatures.
+Ballots lacking verifiable signatures are not counted in states without a curing process. On the eve of Election Day, more than 11,300 mail-in ballots needed signatures cured in Clark County, and more than 1,800 needed fixing in Washoe County, the Nevada secretary of state's office said. As the state continues to process mail ballots this week, those figures — which are already higher than in 2020 and 2022 — are expected to increase.
+"When you start to look at the data, and you start to realize how high it is, it makes you nervous because, again, these races are so close, the margins are so slim, that I don't want to look at the numbers tonight and know that we have to wait for ballots to be cured," Aguilar told the Times on Tuesday. In a follow-up press release, Aguilar said 
+problems with signatures aren't confined to young people but include "older voters who 
+may sign their names differently throughout the course of their lives, voters who have recently gotten married but haven't updated their name on their voter registration, and yes, young people who may not have a set signature developed yet."
+Ballot inconsistencies aren't unique to Tuesday's election. Hundreds of thousands of 
+mail ballots, or about 1%, were rejected across the country during the 2022 midterm elections, NPR reported at the time. But as mail voting becomes more common and younger voters continue to struggle with handwriting, the problem is likely to persist. Related stories Debra Cleaver, the founder of Vote America and Vote.Org, has long been a proponent of nixing signature matching and replacing it with a verifiable and unique identifier, such as an ID or a combination of birthday and partial Social Security number.
+"The fundamental problem here is that a signature is not a unique identifier," Cleaver 
+said. "The secondary problem is that schools don't teach cursive anymore." Since 2010, many states have dropped the skill from their curricula as part of the widespread shift to the Common Core State Standards for English, which didn't explicitly include cursive 
+instruction. As a result, many people now in their late teens and early 20s had little to no cursive instruction and few opportunities to practice developing their unique signature.
+"You can't have all these people who don't have signatures and not experience problems," Cleaver said. "It's going to become an increasing issue." In recent years, however, several states, including California and Louisiana, have passed legislation to reintroduce the skill in classrooms.
