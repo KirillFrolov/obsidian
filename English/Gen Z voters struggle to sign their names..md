@@ -5,7 +5,7 @@ Erin Snodgrass
 Gen Z voters who struggle with cursive could slow the vote count, Nevada's secretary of state said. He said more mail ballots have been rejected because of issues with young voters' signatures. Many schools stopped teaching cursive in 2010, leading to a generation unfamiliar with the style.
 As more schools stop teaching cursive handwriting, fewer young people have distinct 
 signatures — and that could affect Gen Z voters as they try to cast their votes. Nevada Secretary of State Francisco Aguilar said on Tuesday that a relatively high number of 
-mail-in ballots had been rejected in Clark and Washoe counties, two of the battleground 
+mail-in ballots had been rejected in Clark and Washoe counties, two of the [[battleground]] 
 state's most populous counties, because of signature matching problems.
 "It's mostly the fact that young people don't have signatures these days," Aguilar told The New York Times. "And when they did register to vote through the automatic voter registration process, they signed a digital pad at the DMV, and that became their license signature."
 States in the US require a voter's signature on mail and absentee ballots, and several states require additional verifications, including comparing that signature to the voter's signature on file. About two-thirds of states have a "curing" process to notify voters that their ballots weren't counted and allow them to fix the mistake, which can take several days and prolong the vote-counting process, according to the National Conference of State Legislatures.
