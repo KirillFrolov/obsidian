@@ -2,7 +2,7 @@
 tags:
   - explanatorynote
   - ascon
-link: 
+link: " https://my.mts-link.ru/j/74743597/821574144"
 starttime: 2024-11-11T12:00:00
 done: false
 participants:
