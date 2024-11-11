@@ -1,9 +1,10 @@
 ---
 tags:
   - ascon
+  - tasq
 startdate: 
 deadlinedate: 
-done: false
+done: true
 state:
 ---
 <span style="font-size:12px; color:#888888;">Created: 30.10.2024 17:26</span>
@@ -15,5 +16,7 @@ state:
 
 
 ## Результаты:
+
+API подсистемы поиска в вэб на данный момент не реализовано. Связал запрос с БОиП [https://bugs.pilot.ascon.net/issue/3-2411](https://bugs.pilot.ascon.net/issue/3-2411 "https://bugs.pilot.ascon.net/issue/3-2411")
 
 
