@@ -8,7 +8,11 @@ tags:
 nuget pack mmodule_spec.nuspec
 ```
 
+Если все происходит в одном каталоге, можно просто 
 
+```shell
+nuget pack
+```
 
 
 
