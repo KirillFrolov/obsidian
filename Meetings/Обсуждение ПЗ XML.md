@@ -2,13 +2,19 @@
 tags:
   - explanatorynote
   - ascon
-link: 
+link: https://meet.google.com/yzm-hsrk-uxt
 starttime: 2024-11-28T10:00:00
 done: false
-participants: []
+participants:
+  - "[[Шабанов Данил]]"
 ---
 <span style="font-size:12px; color:#888888;">Created: 27.11.2024 15:31</span>
 
+## К обсуждению
 
-
+- Создание структуры без данных
+- Проверка заполненности обязательных атрибутов
+- Переход к ошибочному объекту (в перспективе)
+- Удалить пример БД из репозитория
+- Приложить примеры XML с заполненными данными
 ## Результаты:
