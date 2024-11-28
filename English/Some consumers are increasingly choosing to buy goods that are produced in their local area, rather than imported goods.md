@@ -8,6 +8,6 @@ In resent years, growing number of consumers have opted to purchase locally prod
 
 One primary reason for the preference for local products is it brings huge benefits for the local economy. First of all it is boosting small businesses and creating job opportunities within the community.  Additionally, buyers who are environmentally conscious choose local products to reduce their carbon footprint, because imported products goods often travel long distance resulting in significant carbon emission from transportation.
 
-Overall, the shift towards locally produced goods can bee seen as a positive trend 
+Overall, the shift towards locally produced goods can be seen as a positive trend . It supports local economies, consumers get products harvested at peak ripeness, ensurin g better taste and nutrition value. However, its potentionaly drawbacks, such as reduced product divercity
 
 On the other hand, it also has 
