@@ -6,6 +6,8 @@ Is this a positive or a negative trend?
 
 In resent years, growing number of consumers have opted to purchase locally produced items instead of imported ones. This trend is driven by several factors and in my opinion, these are positive changes, and in this essay I will give several arguments in favor of this.
 
-One primary reason for the preference for local products is it brings huge benefits for the local economy. First of all it is boosting small businesses and creating job opportunities within the community.  
+One primary reason for the preference for local products is it brings huge benefits for the local economy. First of all it is boosting small businesses and creating job opportunities within the community.  Additionally, buyers who are environmentally conscious choose local products to reduce their carbon footprint, because imported products goods often travel long distance resulting in significant carbon emission from transportation.
+
+Overall, the shift towards locally produced goods can bee seen as a positive trend 
 
 On the other hand, it also has 
