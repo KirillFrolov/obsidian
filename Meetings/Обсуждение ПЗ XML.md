@@ -4,7 +4,7 @@ tags:
   - ascon
 link: https://meet.google.com/yzm-hsrk-uxt
 starttime: 2024-11-28T10:00:00
-done: false
+done: true
 participants:
   - "[[Шабанов Данил]]"
 ---
@@ -18,3 +18,5 @@ participants:
 - Удалить пример БД из репозитория
 - Приложить примеры XML с заполненными данными
 ## Результаты:
+
+Ожидаем результат работ к 01.12.2024
