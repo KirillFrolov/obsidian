@@ -10,4 +10,4 @@ One primary reason for the preference for local products is it brings huge benef
 
 Overall, the shift towards locally produced goods can be seen as a positive trend . It supports local economies, consumers get products harvested at peak ripeness, ensuring  better taste and nutrition value. However, its potential drawbacks, such as reduced product diversity and higher coast, should be carefully managed.
 
-On the other hand, it also has 
+In conclusion, the growing preference for locally produced goods is a 
