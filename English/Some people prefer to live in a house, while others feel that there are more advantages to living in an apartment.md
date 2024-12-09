@@ -2,7 +2,7 @@
 
 Are there more advantages than disadvantages of living in a house compared with living in an apartment?
 
-While some individuals are of the opinion that living in a house is more beneficial, others prefer to live in an apartment. Both options have their pros and cons and the following essay will discuss them both in detail.
+While some individuals are of the opinion that living in a house is more beneficial, others prefer to live in an apartment. Both options have their pros and cons and definitely depends on personal preferences. the following essay will discuss them both in detail.
 
 On the one hand, living in a house has a lot of benefits, especially for families with a children. 
 own place room playground
