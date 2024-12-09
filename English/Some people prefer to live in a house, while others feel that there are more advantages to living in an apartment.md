@@ -8,5 +8,5 @@ On the one hand, living in a house has a lot of benefits compared to apartments,
 
 On the other hand, living in a house does come with some disadvantages.  One notable drawback is the higher coast of maintenance and utilities. Houses require more time, effort and money to maintain due to their lager size and additional features like gardens. For example , tasks such as repairing the roof or snow cleaning can be time-consuming and costly. In contrast, apartment buildings often include maintenance service. In addition, another disadvantage is the distance from urban amenities, which may require longer commutes to workplace, school or supermarket.
 
-In conclusion,  despite these disadvantages, the benefits  of living in a house overweight the challenges for those who prioritize space , privacy and autonomy.
+In conclusion,  despite these disadvantages, the benefits  of living in a house overweight the challenges for those who prioritize space , privacy and autonomy. Ultimately, the decision depends on individual preferences.
 
