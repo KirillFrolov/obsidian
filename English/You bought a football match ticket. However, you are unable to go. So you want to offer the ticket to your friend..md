@@ -10,6 +10,11 @@ Hi Tom,
 
 I hope you're doing well. I'm writing to you because I'm currently looking for someone who could go football match this weekend instead of me and I think you will be interested.
 
+The match is part of FIFA World Cup
+
+Best wishes,
+Kirill 
+
 
 
 
