@@ -6,7 +6,9 @@ Write a letter to your friend. In your letter:
 - why you are unable to go
 - how can your friend get the ticket
 
-Hi Dan,
+Hi Tom,
+
+I hope you're doing well. I'm writing to you because I'm currently looking for someone who could go football match this weekend instead of me.
 
 
 
