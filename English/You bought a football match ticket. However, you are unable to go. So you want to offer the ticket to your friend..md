@@ -8,7 +8,8 @@ Write a letter to your friend. In your letter:
 
 Hi Tom,
 
-I hope you're doing well. I'm writing to you because I'm currently looking for someone who could go football match this weekend instead of me.
+I hope you're doing well. I'm writing to you because I'm currently looking for someone who could go football match this weekend instead of me and I think you will be interested.
+
 
 
 
