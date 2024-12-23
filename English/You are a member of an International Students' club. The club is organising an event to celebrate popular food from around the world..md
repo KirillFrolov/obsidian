@@ -6,8 +6,6 @@ tags:
 <span style="font-size:12px; color:#888888;">Created: 14.10.2024 13:55</span>
 [[Letter]]
 
-You are a member of an International Students' club. The club is organising an event to celebrate popular food from around the world.
-
 Write a letter to the event organiser, Luis. In your letter
 
 - offer to make a popular dish from your country

@@ -5,9 +5,6 @@ tags:
 
 <span style="font-size:12px; color:#888888;">Created: 05.11.2024 12:12</span>
 [[Letter]]
-
-Five month ago, you started renting an apartment on a six-month agreement. You now wish to stay in the apartment for longer than the six months you originally agreed with the owner.
-
 Write a letter to the owner of your apartment. In your letter
 
 - say how long you now want to rent the apartment for
