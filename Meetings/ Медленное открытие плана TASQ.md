@@ -2,7 +2,7 @@
 tags: 
 link: 
 starttime: 2025-01-22T11:00:00
-done: false
+done: true
 participants:
 ---
 <span style="font-size:12px; color:#888888;">Created: 22.01.2025 10:11</span>
@@ -14,3 +14,5 @@ participants:
 
 
 ## Результаты:
+
+Воспроизвели проблему.
