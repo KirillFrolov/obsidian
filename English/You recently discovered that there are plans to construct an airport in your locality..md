@@ -15,3 +15,4 @@ Dear sir or madam,
 
 I am writing to express my concerns regarding the recent plans to construct an airport in our locality.
 
+I found out of this development through a public notice in the official website of local council, which outlined the proposed location and timeline for the project.
