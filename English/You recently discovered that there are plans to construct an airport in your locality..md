@@ -1,5 +1,6 @@
 <span style="font-size:12px; color:#888888;">Created: 26.01.2025 22:25</span>
 [[Letter]]
+Write a letter to the local authority
 
 In your letter, you should tell:
 
