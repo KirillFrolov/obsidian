@@ -17,4 +17,7 @@ I am writing to express my concerns regarding the recent plans to construct an a
 
 I found out of this development through a public notice in the official website of local council, which outlined the proposed location and timeline for the project.
 
-While I understand the importance of infrastructure development, I am concerned about the significant negative impact the project could have on our neighbourhood. 
+While I understand the importance of infrastructure development, I am concerned about the significant negative impact the project could have on our neighbourhood. The exploitation of an airport could lead to increased noise pollution, particularly from low flaying aircraft, which would disrupt the peace and quality of life for residents
+
+To address this issue, I would like to suggest exploring alternative locations for the airport that are farther from residential ares. If relocation is not possible, I insist you to implement 
+
