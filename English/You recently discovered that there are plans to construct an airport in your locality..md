@@ -9,3 +9,9 @@ In your letter, you should tell:
 • describe the negative effect of the construction on your neighbourhood
 
 • suggest a possible solution to the problem.
+
+
+Dear sir or madam,
+
+I am writing to express my concerns regarding the recent plans to construct an airport in our locality.
+
